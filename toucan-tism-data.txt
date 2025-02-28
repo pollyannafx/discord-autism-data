@@ -1,0 +1,71 @@
+me:141
+marie:154
+spike:31
+Graywolf:76
+Palepiney:91
+Laila:99
+Amari:179
+usif:89
+Parm:61
+Eminent:45
+flowers:49
+alex:169
+Quarth:124
+juno:141
+mimi:182
+Humza:97
+ZEC:61
+Sophia:221
+Whirler:140
+Purplelightning:75
+pears:184
+finity:115
+minima:48
+ibz:60
+farhan:117
+hani:159
+babar:72
+Astrocat:106
+Sikander:79
+remu:119
+Rhize:72
+abanthis:161
+abbybakr:168
+rambobrite: 140
+Alexis: 148
+luumuupuu: 132
+Austin:204
+Isa:178
+cinho:35
+rose:144
+badger:213
+k_ruwu:120
+Abstract: 101
+mavv: 35
+juno: 140
+charlie: 163
+sami: 81
+dajju: 63
+k_rule47: 120
+akash: 31
+sikandar: 79
+justinian: 140
+Amaziah: 175
+Perseus: 205
+Noodles: 18
+Diego: 18
+Iffat: 33
+remi: 184
+SocialCasualty: 114
+hani: 199
+neen: 170
+geo: 130
+xia: 149
+dandelion: 96
+bambi: 197
+finity: 134
+mina: 194
+Skoolie: 45
+Maryam: 114
+
+average:117.7
