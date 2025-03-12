@@ -67,5 +67,4 @@ finity: 134
 mina: 194
 Skoolie: 45
 Maryam: 114
-
 average:117.7
